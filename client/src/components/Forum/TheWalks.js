@@ -90,8 +90,8 @@ const TheWalks = () => {
                     </div> */}
                
                 <div class="col-lg-12 mx-auto">
-                    <h2 class="my-4">Poems by Emily Dickinson</h2>
-                    <p>Like most writers, Emily Dickinson wrote about what she knew and about what intrigued her. </p>
+                    <h2 class="my-4">Demo by Rahul Abhishek</h2>
+                    <p>This is the dummy page where you can see the discussions anytime.. </p>
                 </div>
                 <div class="col-lg-10 mx-auto">
                     <div class="row mx-auto justify-content-end">

@@ -1,7 +1,7 @@
 const mongoose = require('mongoose');
 const bcrypt = require ( 'bcrypt' );
 const keys = require('./keys')
-mongoose.connect(`mongodb+srv://${process.env.ATLAS_URI}`, {useNewUrlParser: true, useUnifiedTopology: true,
+mongoose.connect(`mongodb+srv://HMS_Rahul:AttainU123@cluster0-sjhiu.mongodb.net/ForumApp?retryWrites=true&w=majority`, {useNewUrlParser: true, useUnifiedTopology: true,
     useCreateIndex: true});
 
 //mongoose.connect(`mongodb://${process.env.movieTracker}`,{useNewUrlParser: true});

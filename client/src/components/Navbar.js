@@ -13,7 +13,7 @@ const Navbar = () => {
     return (
         <div>
             <nav className="navbar navbar-expand-lg navbar-light bg-light">
-                <Link to="/" className="navbar-brand" href="#">Emily <i class="fas fa-book-reader"></i> Dickinson</Link>
+                <Link to="/" className="navbar-brand" href="#">Rahul <i class="fas fa-book-reader"></i> Abhishek</Link>
                 <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation" onClick={()=>setShown(!isShown)}>
                     <span className="navbar-toggler-icon"></span>
                 </button>

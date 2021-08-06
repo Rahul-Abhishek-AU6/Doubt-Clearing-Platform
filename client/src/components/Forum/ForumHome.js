@@ -46,8 +46,8 @@ const ForumHome = () => {
                     <h2 style={{paddingTop: "10px", paddingLeft: "15px", color:"white"}}>Forum</h2>
                 </div>
                 <div class="col-lg-12 mx-auto">
-                    <h2 class="my-4">Welcome To The Poems Forum!</h2>
-                    <p>Emily Dickinson is one of America’s greatest and most original poets of all time.</p>
+                    <h2 class="my-4">Welcome To The Doubt Clearing Forum!</h2>
+                    <p>You're landed on the doubt clearing forum.</p>
                 </div>
                 <div class="row ml-2 mt-4">
                     <div class="col-lg-10 mx-auto mt-4">
@@ -58,8 +58,8 @@ const ForumHome = () => {
                                             <div class="mt-4" style={{width: "80px", margin: "0 auto"}}><i class="fas fa-envelope-open-text fa-5x"></i> </div>
                                         </div>
                                         <div class="col-lg-10 mt-2">
-                                        <Link to="/the-walks" className="nav-link" ><h3>Poems by Emily Dickinson</h3></Link>
-                                            <p class="ml-3">Emily Dickinson is one of America’s greatest and most original poets of all time.</p>
+                                        <Link to="/the-walks" className="nav-link" ><h3>Post by Rahul Abhishek</h3></Link>
+                                            <p class="ml-3">Here you can write/find the already asked questions.</p>
                                             <p class="ml-3"><b>Discussions</b><span class="px-2">{walkResult.length}</span><b>Messages</b><span class="px-2">{totalMessages}</span></p>
                                         </div>
                                     </div>     
@@ -82,8 +82,8 @@ const ForumHome = () => {
                                             <div class="mt-4" style={{width: "80px", margin: "0 auto"}}><i class="fas fa-envelope-open-text fa-5x"></i> </div>
                                         </div>
                                         <div class="col-lg-10  mt-2">
-                                        <Link to="/the-walks" className="nav-link" ><h3>Life of Emily Dickinson</h3></Link>
-                                            <p class="ml-3">Emily Dickinson is one of America’s greatest and most original poets of all time. </p>
+                                        <Link to="/the-walks" className="nav-link" ><h3>2nd Post by Rahul Abhishek</h3></Link>
+                                            <p class="ml-3">For posting aby questions, you need to register first. </p>
                                             <p class="ml-3"><b>Discussions</b><span class="px-2">10</span><b>Messages</b><span class="px-2">10</span></p>
                                         </div>
                                     </div>     
@@ -106,8 +106,8 @@ const ForumHome = () => {
                                             <div class="mt-4" style={{width: "80px", margin: "0 auto"}}><i class="fas fa-envelope-open-text fa-5x"></i></div>
                                         </div>
                                         <div class="col-lg-10">
-                                        <Link to="/the-walks" className="nav-link" ><h3>Movie</h3></Link>
-                                            <p class="ml-3">Emily Dickinson is one of America’s greatest and most original poets of all time.</p>
+                                        <Link to="/the-walks" className="nav-link" ><h3>Suggestion</h3></Link>
+                                            <p class="ml-3">Above two post are dummies, created for informational purpose.</p>
                                             <p class="ml-3"><b>Discussions</b><span class="px-2">10</span><b>Messages</b><span class="px-2">10</span></p>
                                         </div>
                                     </div>     
